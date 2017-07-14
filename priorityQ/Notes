@@ -1,0 +1,40 @@
+export to excel:
+
+sourceforge.net/projects/jexcelapi/files/jexcelapi/
+
+
+		// int[] sequence = {10, 85, 15, 70, 20, 60, 30, 50, 65, 80, 90,
+		// 40, 5, 55};
+		// printTree("Sequence", sequence);
+
+
+
+test
+	MinMaxPQ<Integer> balancingTree = new MinMaxPQ<>();
+		// balancingTree.add(10);
+		// balancingTree.add(5);
+		// balancingTree.add(15);
+		// balancingTree.add(20);
+		// balancingTree.add(25);
+
+		// balancingTree.add(2);
+		// balancingTree.add(1);
+		// balancingTree.add(4);
+		// balancingTree.add(5);
+		// balancingTree.add(9);
+		// balancingTree.add(3);
+		// balancingTree.add(6);
+		// balancingTree.add(7);
+
+		// balancingTree.delete(2);
+		//
+		// balancingTree.delete(9);
+		// balancingTree.delete(6);
+		// balancingTree.delete(3);
+
+		balancingTree.add(41);
+		balancingTree.add(38);
+		balancingTree.add(31);
+		balancingTree.add(12);
+		balancingTree.add(19);
+		balancingTree.add(8);
